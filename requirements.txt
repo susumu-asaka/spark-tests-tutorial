@@ -1,0 +1,6 @@
+databricks-connect
+pandas
+pyarrow
+ipython
+pytest
+spark-tests
